@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/NotoSansKR-Black.otf",
+      "sha1": "0115cc2afb97b3cf47f59c6f6f50e580b9758bc9"
+    },
+    {
+      "path": "assets/fonts/NotoSansKR-Bold.otf",
+      "sha1": "49e50de244558c4c21f43d85b7404cabb970b30b"
+    },
+    {
+      "path": "assets/fonts/NotoSansKR-Light.otf",
+      "sha1": "03bd5bfbc27f2d2b9bdc8854e4174a300e89a007"
+    },
+    {
+      "path": "assets/fonts/NotoSansKR-Medium.otf",
+      "sha1": "a4cdc5c494d118e231a32dda98373e7835ac9dd8"
+    },
+    {
+      "path": "assets/fonts/NotoSansKR-Regular.otf",
+      "sha1": "5f533d0d5caf3847afa2d78301e7b87b3485ecbc"
+    },
+    {
+      "path": "assets/fonts/NotoSansKR-Thin.otf",
+      "sha1": "274bbbdfa070cc0ec1ea404f110641ef57a6c623"
+    },
+    {
+      "path": "assets/fonts/The Jamsil OTF 1 Thin.otf",
+      "sha1": "47ca2a01042abf1cb1f3b3ac1fc5e770152cdcca"
+    },
+    {
+      "path": "assets/fonts/The Jamsil OTF 2 Light.otf",
+      "sha1": "f4da110c598042440f6a62c9e168f1182c4a2332"
+    },
+    {
+      "path": "assets/fonts/The Jamsil OTF 3 Regular.otf",
+      "sha1": "8635853071c635457d545c114d892754732bfd07"
+    },
+    {
+      "path": "assets/fonts/The Jamsil OTF 5 Bold.otf",
+      "sha1": "9720cc546a4ea322efc9b324ede8bcdd29f47cfc"
+    },
+    {
+      "path": "assets/fonts/The Jamsil OTF 6 ExtraBold.otf",
+      "sha1": "7adf26ea2acc38daa15bfdf302c41fd9b47dbc22"
+    },
+    {
+      "path": "assets/fonts/TheJamsilOTFMedium.otf",
+      "sha1": "87dad172499d27ed206db4ca20fd801e69f363fc"
+    }
+  ]
+}
